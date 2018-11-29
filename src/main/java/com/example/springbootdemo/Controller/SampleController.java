@@ -15,7 +15,6 @@ import java.util.Map;
  */
 @Controller
 @RequestMapping(value = "/hello")
-@EnableAutoConfiguration
 public class SampleController {
 
     /**
